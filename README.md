@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - <img src="https://github.com/reem-atalah/reem-atalah/blob/main/imgs/CUFE.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 - <img src="https://github.com/reem-atalah/reem-atalah/blob/main/imgs/sstl.png" width="25" draggable="false">Technical member and moderator in SSTL  <a href="https://www.linkedin.com/company/sst-lab/mycompany/">@SSTL Faculty of Engineering Cairo University Aerospace department</a>
 
-- 🔭 I’m currently working on Machine Learning project **Handwriting Based Gender Classification** , Embedded system project making drivers using **STM32**, Security project as implementing and attacking **RSA**
+- 🔭 I’m currently working on Machine Learning project **Handwriting Based Gender Classification** , Embedded system project making drivers using **STM32**, Security project as implementing and attacking **RSA**, and graphics maze game using **openGL**.
 
 - 🌱 I’m currently learning: *SpringBoot Java*, *GoLang*, *Ruby on Rails*
 
