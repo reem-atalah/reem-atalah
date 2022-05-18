@@ -30,31 +30,33 @@ Here are some ideas to get you started:
 
 # Skills
 <div align="center">
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/html.jpg' height='40'>]  
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/js.png' height='40'>] 
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/css.png' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/bootstrap.jpg' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/js.png' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/java.jpg' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/Git.png' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/github.jpg' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/python.png' height='40'>] 
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/jupyter.png' height='40'>] 
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/opencv.png' height='40'>] 
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/node.png' height='40'>] 
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/npm.png' height='40'>] 
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/spring.png' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/mongodb.jpg' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/mysql.png' height='40'>] 
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/microsoftSQL.png' height='40'>] 
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/postgresql.jpg' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/c.png' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/cpp.png' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/csharp.png' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/arduino.jpg' height='40'>]
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/arm.png' height='30'>] 
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/assembly.png' height='40'>] 
-[<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/canva.png' height='40'>]
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/html.jpg' height='40'>  
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/js.png' height='40'> 
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/css.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/bootstrap.jpg' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/js.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/java.jpg' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/Git.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/github.jpg' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/python.png' height='40'> 
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/jupyter.png' height='40'> 
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/opencv.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/postman.jpg' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/node.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/express_js.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/npm.png' height='40'> 
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/spring.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/mongodb.jpg' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/mysql.png' height='40'> 
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/microsoftSQL.png' height='40'> 
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/postgresql.jpg' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/c.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/cpp.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/csharp.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/arduino.jpg' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/arm.png' height='30'> 
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/assembly.png' height='40'> 
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/canva.png' height='40'>
 </div>
 
   <!--
