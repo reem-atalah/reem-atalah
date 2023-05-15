@@ -44,8 +44,9 @@ Here are some ideas to get you started:
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/python.png' height='40'> 
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/jupyter.png' height='40'> 
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/opencv.png' height='40'>
-<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/postman.jpg' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/django.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/postman.jpg' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/tableau.png' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/node.png' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/express_js.png' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/npm.png' height='40'> 
