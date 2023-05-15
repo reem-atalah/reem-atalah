@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 
+- 🔭 I’m currently working on Machine Learning project **Handwriting Based Gender Classification** , Embedded system project making drivers using **STM32**, Security project as implementing and attacking **RSA**, and graphics maze game using **openGL**.
+
+- 📫 How to reach me: <a href="reem.atalah1@gmail.com">@gmail account</a>
 -->
 # About me 
 - <img src="https://github.com/reem-atalah/reem-atalah/blob/main/imgs/CUFE.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
@@ -47,6 +50,8 @@ Here are some ideas to get you started:
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/express_js.png' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/npm.png' height='40'> 
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/spring.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/jbpm.png' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/camunda.png' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/mongodb.jpg' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/mysql.png' height='40'> 
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/microsoftSQL.png' height='40'> 
