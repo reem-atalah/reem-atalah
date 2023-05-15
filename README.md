@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - <img src="https://github.com/reem-atalah/reem-atalah/blob/main/imgs/CUFE.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 - <img src="https://github.com/reem-atalah/reem-atalah/blob/main/imgs/sstl.png" width="25" draggable="false">Technical member and moderator in SSTL  <a href="https://www.linkedin.com/company/sst-lab/mycompany/">@SSTL Faculty of Engineering Cairo University Aerospace department</a>
 
-- 🔭 I’m currently working on Machine Learning project **Handwriting Based Gender Classification** , Embedded system project making drivers using **STM32**, Security project as implementing and attacking **RSA**, and graphics maze game using **openGL**.
+- 🔭 I’m currently working on Satellite imagery processing project **Flooding detection** using DL and classical image processing, Big data project **PetFinder** using mapReduce with visualization, and graduation project **Owl Eye** using segmentation image processing and Django.
 
-- 🌱 I’m currently learning: *SpringBoot Java*, *GoLang*, *Ruby on Rails*
+<!-- - 🌱 I’m currently learning: *SpringBoot Java*, *GoLang*, *Ruby on Rails* -->
 
-- 📫 How to reach me: 
+<!-- - 📫 How to reach me:  -->
 
 - ⚡ Fun fact: You can know that a girl is experienced in *Java* when She won’t let her private be accessible to public.
 
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/jupyter.png' height='40'> 
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/opencv.png' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/postman.jpg' height='40'>
+<img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/django.png' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/node.png' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/express_js.png' height='40'>
 <img src='https://github.com/reem-atalah/reem-atalah/blob/main/imgs/npm.png' height='40'> 
